@@ -2,7 +2,7 @@ public class mahesh
 {
   public static void main (string[] args)
   {
-    system.out.println("Done");
+    system.out.println("Done statement");
   }
 }
   
